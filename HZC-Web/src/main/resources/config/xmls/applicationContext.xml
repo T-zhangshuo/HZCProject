@@ -74,7 +74,7 @@
         <property name="typeAliasesPackage" value="com.hzcharmander.model.*" />
     </bean>
     <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-        <property name="basePackage" value="com.hzcharmander.dao;com.hzcharmander.actable.dao.*"/>
+        <property name="basePackage" value="com.hzcharmander.dao,com.hzcharmander.actable.dao.*"/>
         <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory" />
     </bean>
 

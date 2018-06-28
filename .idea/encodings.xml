@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HZC-ACTable" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HZC-Dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HZC-Entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HZC-Model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HZC-Service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HZC-Utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HZC-Web" charset="UTF-8" />
+  </component>
+</project>
